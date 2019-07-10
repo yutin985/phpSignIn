@@ -34,9 +34,8 @@
 
 	$db_user = "root";
 	
-	$db_passwd = "19961118";
 
-	$db = mysqli_connect($db_server , $db_user , $db_passwd , $db_name);
+	$db = mysqli_connect($db_server , $db_user , $db_name);
 
 	if (!$db){
 		die("連線失敗" . mysqli_connect_error($db));

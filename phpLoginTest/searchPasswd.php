@@ -30,11 +30,9 @@
 
     $db_user = "root";
 
-    $db_passwd = "19961118";
-
     $db_name = "testDataBase";
 
-    $db = mysqli_connect($db_server,  $db_user, $db_passwd, $db_name);
+    $db = mysqli_connect($db_server,  $db_user, $db_name);
 
     if(!$db){
 
