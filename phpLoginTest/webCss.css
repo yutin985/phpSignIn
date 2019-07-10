@@ -1,0 +1,96 @@
+body{
+	background-image:linear-gradient(to top,#7D9EC0, #FFFFFF);height:900px;
+}
+
+#blueBra{
+	background-color:#3b5998;height:85px;
+}
+
+#signInLogo{
+	font-size: 40px; color: #F0F8FF;line-height:100px;font-family:monospace;padding-left:40px;font-weight: bolder;
+}
+
+#user{
+	color:#000000;font-size:12px;padding-left: 25px;padding-right: 109px;line-height: 100px;
+}
+
+#passwd{
+	color:#000000;font-size:12px;padding-left: 1px;padding-top:1px;
+}
+
+#userImputTd{
+	padding-left:20px;position:relative;bottom:90px;
+}
+
+#userImput{
+	height: 20px;margin-top:10px;
+}
+
+#psaawdimputTd{
+	padding-left: 15px;position:relative;bottom:90px;
+}
+
+#passwdImput{
+	height: 20px;
+}
+
+#loginImputTd{
+	padding-left:5px;position:relative;bottom:90px;
+}
+
+#loginImput{
+	background-color:#3b5998;color:#FFFFFF;height:25px;margin-left:20px;margin-top: 20px;border-radius: 5px
+}
+
+#forgetPasswd{
+	color: #A2B5CD;font-size:10px;padding-left: 170px;position:relative;bottom:90px;font-family:serif;
+}
+
+#addInMember{
+	color:#000000;font-size:10px;font-family:serif;padding-left:25px;line-height:200px;
+}
+
+#registeredButton{
+	background-color:#3b5998;color:#FFFFFF;width:80px;height:35px;margin-left:23px;position:relative;bottom:85px;border-radius: 5px
+}
+
+#registeredUser{
+	color:#000000;font-size:12px;padding-left: 25px;padding-right: 109px;line-height: 100px;position:relative;left:50px;
+}
+
+#registeredPsaawd{
+	color:#000000;font-size:12px;position:relative;bottom:85px;position:relative;left:50px
+}
+
+#registeredEmail{
+	color:#000000;font-size:12px;position:relative;bottom:35px;position:relative;left:50px
+}
+
+#registeredGender{
+	color:#000000;font-size:12px;position:relative;bottom:-25px;position:relative;left:50px
+}
+
+#registeredSubmit{
+    background-color:#3b5998;color:#FFFFFF;height:25px;position:relative;left:50px;border-radius: 5px
+}
+
+#searchPasswdDiv{
+    margin:200px auto;width: 500px;height: 200px;background-color:#FFFFFF;border-width:1px;border-style:solid;border-color:#C0C0C0;
+}
+
+#searchPasswd{
+	position:relative;left: 180px;position: relative;top: -40px;font-size: 20px;font-family:sans-serif;color: #24367D;font-weight:bold;
+}
+
+#searchEmail{
+	position:relative;left: 665px;position:relative;bottom: 350px
+}
+
+#searchEmailDiv{
+	text-align: center;position: relative;bottom: 330px
+}
+
+
+
+
+
